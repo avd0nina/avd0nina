@@ -11,13 +11,36 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=avd0nina&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=avd0nina&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avd0nina&theme=tokyonight&hide_border=true&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Lada's GitHub stats](https://github-readme-stats.vercel.app/api?username=avd0nina&theme=pink&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avd0nina&theme=pink&hide_border=true&border_radius=10)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avd0nina&theme=pink&hide_border=true&layout=compact&langs_count=8&hide_progress=false)
+
+<br/>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=avd0nina&theme=chalk&no-frame=true&margin-w=15&margin-h=15&row=1)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avd0nina&theme=pink&hide_border=true&point=FFFFFF&line=FF69B4&area=true&area_color=FFB6C1)
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=avd0nina&label=Profile%20Views&color=ffc0cb&style=flat-square" alt="Profile views" />
+  <br/><br/>
+  <i>Always learning, always coding! 🌸</i>
+</div>
 
 <!-- Proudly created with love & code ✨ -->
