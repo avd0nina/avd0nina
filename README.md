@@ -16,22 +16,22 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=avd0nina&theme=pink&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=ffffff&title_color=FF69B4&text_color=555555&icon_color=FF69B4" alt="Lada's GitHub stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=avd0nina&theme=pink&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=ffffff&title_color=FF69B4&text_color=555555&icon_color=FF69B4" alt="Lada's GitHub stats" />
 
 <br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avd0nina&theme=pink&hide_border=true&border_radius=10&background=ffffff&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avd0nina&theme=pink&hide_border=true&border_radius=10&background=ffffff&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
 
 <br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avd0nina&theme=pink&hide_border=true&layout=compact&langs_count=8&hide_progress=false&bg_color=ffffff&title_color=FF69B4&text_color=555555" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avd0nina&theme=pink&hide_border=true&layout=compact&langs_count=8&hide_progress=false&bg_color=ffffff&title_color=FF69B4&text_color=555555" alt="Top Languages" />
 
 <br/>
 
 <!-- Activity Graph — только розовая линия, белый фон -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avd0nina&theme=minimal&hide_border=true&bg_color=ffffff&color=FF69B4&line=FF69B4&point=FF69B4&area=false" alt="Activity Graph" height="120" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avd0nina&theme=minimal&hide_border=true&bg_color=ffffff&color=FF69B4&line=FF69B4&point=FF69B4" alt="Activity Graph" />
 
 </div>
 
