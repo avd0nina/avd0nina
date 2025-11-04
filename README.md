@@ -27,10 +27,6 @@
 
 <br/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=avd0nina&theme=chalk&no-frame=true&margin-w=15&margin-h=15&row=1)
-
-<br/>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avd0nina&theme=pink&hide_border=true&point=FFFFFF&line=FF69B4&area=true&area_color=FFB6C1)
 
 </div>
