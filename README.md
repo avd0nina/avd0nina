@@ -3,9 +3,13 @@
 **Faculty of Information Technology** 🎓
 ---
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![UML](https://img.shields.io/badge/UML-E34F26?style=flat-square)
+![BPMN](https://img.shields.io/badge/BPMN-0052CC?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ---
 ## 📊 GitHub Stats
 <div align="center"><!-- GitHub Stats with pastel colors --><a href="https://github.com/avd0nina"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avd0nina&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=ffffff&title_color=FFB6C1&text_color=555555&icon_color=FFB6C1&border_color=FFD1DC" alt="Lada's GitHub stats" onerror="this.style.display='none'" /> </a><!-- Top Languages with pastel colors --><a href="https://github.com/avd0nina"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avd0nina&hide_border=true&layout=compact&langs_count=8&hide_progress=false&bg_color=ffffff&title_color=FFB6C1&text_color=555555&border_color=FFD1DC" alt="Top Languages" onerror="this.style.display='none'" /> </a>
@@ -15,4 +19,3 @@
   <br/><br/>
   <i>Always learning, always coding! 🌸</i>
 </div>
- 
